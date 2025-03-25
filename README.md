@@ -15,4 +15,5 @@
 * 🤘 Here are my Open Source contributions so far, here are some
   
 * My Certifications and Courses
+    * [Python](https://github.com/Nayak009/Nayak009/blob/main/python_certificate.pdf)
 
